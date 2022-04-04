@@ -1,0 +1,75 @@
+.main-header {
+  background: url(../images/backgroun0.jpg);
+  background-size: cover;
+  min-height: auto;
+}
+
+.background-overlay {
+  background-color: rgba(19, 15, 64, 0.7);
+  background-size: cover;
+  min-height: auto;
+}
+
+.about-me-header {
+  padding-top: 5px;
+  background-color: rgba(19, 15, 64, 0.7);
+}
+
+.experience-header {
+  padding-top: 5px;
+  background-color: rgba(19, 15, 64, 0.65);
+}
+
+.education-header {
+  padding-top: 5px;
+  background-color: rgba(19, 15, 64, 0.6);
+}
+
+.skills-header {
+  padding-top: 5px;
+  background-color: rgba(19, 15, 64, 0.55);
+}
+
+footer {
+  padding-top: 5px;
+  background-color: rgba(19, 15, 64, 0.5);
+}
+
+/*html {
+    background-color: aquamarine;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+
+  header {
+    color:rgb(236, 10, 10)
+  }
+  
+  body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #2fcdd3;
+    padding: 0 20px 20px 20px;
+    border: 15px solid rgb(53, 11, 150);
+  }
+
+  .Lead-content, .Section-Title {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  .Personal-Section {
+      width: 700px;
+      height: 300px;
+      margin: -20px;
+      padding: 5px;
+      border: 5px solid black;
+    }
+
+  .Lead-content {
+    background-color: white;
+    margin: 0px;
+  }*/
